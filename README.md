@@ -2,6 +2,8 @@
 
 # Last Used
 
+![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-6EC4A0?style=flat-square) ![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-62B47A?style=flat-square) ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square) ![NeoForge](https://img.shields.io/badge/NeoForge-F16436?style=flat-square) [![Modrinth downloads](https://img.shields.io/modrinth/dt/last-used?style=flat-square&logo=modrinth&label=Modrinth&color=1BD96A)](https://modrinth.com/mod/last-used) [![CurseForge downloads](https://img.shields.io/curseforge/dt/1811975?style=flat-square&logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/last-used) [![GitHub downloads](https://img.shields.io/github/downloads/CptGummiball/last-used/total?style=flat-square&logo=github&label=GitHub)](https://github.com/CptGummiball/last-used/releases)
+
 **See at a glance when you last used an item.** Hover any tool, weapon, armor piece or other item and its tooltip
 shows `Last used: 12 minutes ago` – or `Last used: never`.
 
@@ -90,3 +92,11 @@ immediately unless enabled for testing), no background threads, no file access a
 - [CREDITS.md](CREDITS.md) – original concept and author
 - [CHANGELOG.md](CHANGELOG.md)
 - [LICENSE](LICENSE)
+
+## Links
+
+*   [Wiki](https://github.com/CptGummiball/last-used/wiki)
+*   [Supported versions](https://github.com/CptGummiball/last-used/wiki/Supported-Versions)
+*   [Report a bug](https://github.com/CptGummiball/last-used/issues/new/choose)
+*   [Request a Minecraft version](https://github.com/CptGummiball/last-used/issues/new?template=version_request.yml)
+*   [API for mod developers](https://github.com/CptGummiball/last-used/blob/main/api/README.md)

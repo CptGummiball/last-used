@@ -1,11 +1,11 @@
 name: Mod compatibility
-description: A block or feature of another mod does not work together with Last Used.
+description: Another mod's tooltips or items do not work together with Last Used.
 labels: ["compatibility", "needs triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Last Used connects to other mods through the standard interfaces of each loader (Fabric Transfer API and Team Reborn Energy, NeoForge capabilities). See [Resources and Compatibility](https://github.com/CptGummiball/LastUsed/wiki/Resources-and-Compatibility).
+        Last Used adds its tooltip line through the standard tooltip events of Fabric and NeoForge and never changes other lines. Tell us which mod's tooltip or item use misbehaves.
 
         Known limits, no need to report: see the wiki (Supported Versions, FAQ).
 

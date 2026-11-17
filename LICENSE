@@ -13,7 +13,7 @@ language files, data files and documentation, and the Last Used API files (secti
 
 2. What you may do
    a) Download Last Used from its official pages (Modrinth, CurseForge, and the releases of
-      https://github.com/CptGummiball/LastUsed).
+      https://github.com/CptGummiball/last-used).
    b) Use Last Used to play Minecraft: in singleplayer, and on your own or any other server.
    c) Show Last Used in videos, streams, screenshots, reviews and guides.
 
@@ -63,5 +63,5 @@ language files, data files and documentation, and the Last Used API files (secti
    Last Used is not an official Minecraft product and is not approved by or associated with Mojang
    or Microsoft. Minecraft's own terms (EULA) also apply to its use.
 
-Questions: https://github.com/CptGummiball/LastUsed/issues
-Requests for permission: https://github.com/CptGummiball/LastUsed/issues/new?template=permission_request.yml
+Questions: https://github.com/CptGummiball/last-used/issues
+Requests for permission: https://github.com/CptGummiball/last-used/issues/new?template=permission_request.yml

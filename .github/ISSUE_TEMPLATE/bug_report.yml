@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to report a bug. Please check the [FAQ](https://github.com/CptGummiball/LastUsed/wiki/FAQ) first. 
+        Thanks for taking the time to report a bug. Please check the [FAQ](https://github.com/CptGummiball/last-used/wiki/FAQ) first. 
 
         If the problem only happens together with another mod's machine, please use the **Mod compatibility** template instead.
 

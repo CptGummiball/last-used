@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 – first release (Minecraft 26.3, Fabric and NeoForge)
+## 1.0.0 – first release (Minecraft 26.3, Fabric and NeoForge)
 
 Based on the concept of Last Use Tooltip by perusi. Independently developed for Minecraft 26.3 Fabric and NeoForge.
 

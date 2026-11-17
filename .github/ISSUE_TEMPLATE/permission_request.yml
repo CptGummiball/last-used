@@ -6,13 +6,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Last Used is not open source. The [license](https://github.com/CptGummiball/LastUsed/blob/main/LICENSE) lists what you may do and what needs written permission from cptgummiball.
+        Last Used is not open source. The [license](https://github.com/CptGummiball/last-used/blob/main/LICENSE) lists what you may do and what needs written permission from cptgummiball.
 
         **You do not need to ask for:**
         * using Last Used in a modpack (public or private, free or paid) with the jar files **exactly as published**,
         * playing with Last Used on any server,
         * videos, streams, screenshots, reviews and guides,
-        * making your own mod work with Last Used through the [API](https://github.com/CptGummiball/LastUsed/blob/main/api/README.md) (without shipping Last Used files).
+        * making your own mod work with Last Used through the [API](https://github.com/CptGummiball/last-used/blob/main/api/README.md) (without shipping Last Used files).
 
         For anything else, fill out this form. **A permission is only valid if cptgummiball grants it in writing in this issue.** It applies only to what is described here.
 

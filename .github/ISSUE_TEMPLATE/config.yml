@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Wiki and FAQ
-    url: https://github.com/CptGummiball/LastUsed/wiki
+    url: https://github.com/CptGummiball/last-used/wiki
     about: How the mod works, and answers to common questions.
   - name: Supported versions
-    url: https://github.com/CptGummiball/LastUsed/wiki/Supported-Versions
+    url: https://github.com/CptGummiball/last-used/wiki/Supported-Versions
     about: Which Minecraft and loader versions are tested.
