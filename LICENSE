@@ -1,67 +1,21 @@
-Last Used License
+MIT License
 
-Copyright (c) 2026 cptgummiball. All rights reserved.
+Copyright (c) 2026 cptgummiball
 
-"Last Used" means the Minecraft mod Last Used in every version and form in which cptgummiball
-publishes it: the jar files, the compiled code in them, textures, models, icons, sounds, texts,
-language files, data files and documentation, and the Last Used API files (section 5).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. Ownership
-   Last Used is the property of cptgummiball. This license gives you limited rights to use it. It
-   does not transfer any ownership, copyright or other rights. All rights not expressly granted
-   here are reserved.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. What you may do
-   a) Download Last Used from its official pages (Modrinth, CurseForge, and the releases of
-      https://github.com/CptGummiball/last-used).
-   b) Use Last Used to play Minecraft: in singleplayer, and on your own or any other server.
-   c) Show Last Used in videos, streams, screenshots, reviews and guides.
-
-3. Modpacks
-   You may include Last Used in modpacks, public or private, free or paid, and distribute it as part
-   of such a modpack, but only in its original, unmodified state: the jar files exactly as
-   cptgummiball published them, not renamed in content, not repackaged, not altered in any way.
-   Where the modpack platform can link to the official download instead of copying the file,
-   linking is preferred.
-
-4. What you may not do
-   Unless cptgummiball has given you written permission, you may not:
-   a) modify, adapt, translate, patch or otherwise change Last Used or any part of it, or create
-      works derived from it, including modified jar files, forks, ports and re-textures;
-   b) decompile, disassemble, deobfuscate or otherwise reverse engineer Last Used, or attempt to
-      obtain its source code, except where and only to the extent that applicable law expressly
-      allows this despite this restriction;
-   c) upload, mirror or distribute Last Used anywhere other than as part of a modpack under
-      section 3, or offer it as your own work;
-   d) use the textures, models, icons, sounds or texts of Last Used in other projects;
-   e) remove or change this license or any copyright notice.
-
-5. Last Used API
-   cptgummiball publishes an API for other mods: the Java package dev.cptgummiball.lastused.api (provided as a
-   separate API jar with its documentation) and the documented integration classes, if any. You
-   may use the API jar, the documentation and the official Last Used jar files as compile-only
-   dependencies to develop, compile and distribute your own mods that work together with
-   Last Used. Your mod may reference these classes, but must not contain the API classes or
-   any other part of Last Used; players install Last Used separately. The API may not be
-   modified or redistributed on its own. Sections 1 and 4 apply to the API in all other respects.
-
-6. No warranty
-   Last Used is provided "as is", without warranty of any kind, express or implied, including
-   warranties of merchantability, fitness for a particular purpose and non-infringement. Back up
-   your worlds.
-
-7. Limitation of liability
-   To the extent permitted by applicable law, cptgummiball is not liable for any damages arising
-   from the use of or inability to use Last Used, including loss of data or of game worlds.
-   Liability for intent and gross negligence, and any liability that cannot be excluded by law,
-   remain unaffected.
-
-8. Termination
-   If you break this license, your rights under it end automatically.
-
-9. Other
-   Last Used is not an official Minecraft product and is not approved by or associated with Mojang
-   or Microsoft. Minecraft's own terms (EULA) also apply to its use.
-
-Questions: https://github.com/CptGummiball/last-used/issues
-Requests for permission: https://github.com/CptGummiball/last-used/issues/new?template=permission_request.yml
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
